@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-CGL_BA3_Sound Stroll//[Ll]ibrary/
-CGL_BA3_Sound Stroll//[Tt]emp/
-CGL_BA3_Sound Stroll//[Oo]bj/
-CGL_BA3_Sound Stroll//[Bb]uild/
-CGL_BA3_Sound Stroll//[Bb]uilds/
-CGL_BA3_Sound Stroll//[Ll]ogs/
-CGL_BA3_Sound Stroll//[Mm]emoryCaptures/
+CGL_BA3_Sound Stroll/[Ll]ibrary/
+CGL_BA3_Sound Stroll/[Tt]emp/
+CGL_BA3_Sound Stroll/[Oo]bj/
+CGL_BA3_Sound Stroll/[Bb]uild/
+CGL_BA3_Sound Stroll/[Bb]uilds/
+CGL_BA3_Sound Stroll/[Ll]ogs/
+CGL_BA3_Sound Stroll/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
