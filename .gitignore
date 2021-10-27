@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+CGL_BA3_Sound Stroll//[Ll]ibrary/
+CGL_BA3_Sound Stroll//[Tt]emp/
+CGL_BA3_Sound Stroll//[Oo]bj/
+CGL_BA3_Sound Stroll//[Bb]uild/
+CGL_BA3_Sound Stroll//[Bb]uilds/
+CGL_BA3_Sound Stroll//[Ll]ogs/
+CGL_BA3_Sound Stroll//[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -57,24 +57,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
-CGL_BA3_Sound Stroll/Library/ArtifactDB
-CGL_BA3_Sound Stroll/Library/EditorInstance.json
-CGL_BA3_Sound Stroll/Library/PackageManager/ProjectCache
-CGL_BA3_Sound Stroll/Library/PackageManager/ProjectCache.md5
-CGL_BA3_Sound Stroll/Library/SceneVisibilityState.asset
-CGL_BA3_Sound Stroll/Library/ShaderCache/EditorEncounteredVariants
-CGL_BA3_Sound Stroll/Library/SourceAssetDB
-CGL_BA3_Sound Stroll/Logs/AssetImportWorker0-prev.log
-CGL_BA3_Sound Stroll/Logs/AssetImportWorker0.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-AssetImportWorker0.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe1.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe2.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe3.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe4.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe5.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe6.log
-CGL_BA3_Sound Stroll/Logs/shadercompiler-UnityShaderCompiler.exe7.log
-CGL_BA3_Sound Stroll/Temp/UnityLockfile
-CGL_BA3_Sound Stroll/Temp/workerlic
