@@ -20,7 +20,7 @@ public class FootstepSoundController : MonoBehaviour
 
     private string CheckGround(Transform pOriginObj)
     {
-        string groundType = "footsteps_stone";
+        string groundType = "footsteps_grass";
         
         RaycastHit hit;
         // Does the ray intersect any objects excluding the player layer

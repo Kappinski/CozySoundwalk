@@ -44,8 +44,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_FootstepSounds:
-  - {fileID: 11400000, guid: 66e14c1eebed9404fa9a753e65c4140b, type: 2}
+  - {fileID: 11400000, guid: e1368eaa24beafd4c8aa878b1dbb4807, type: 2}
   - {fileID: 11400000, guid: d63ced0cdb09373479bcec439a433201, type: 2}
-  - {fileID: 11400000, guid: 89e298038ea18ee47857d226a70afda3, type: 2}
-  - {fileID: 11400000, guid: 5dbb6e29372dee0419b81c383efeed30, type: 2}
-  - {fileID: 11400000, guid: b2909181015a90944b61ab0465c9c555, type: 2}
